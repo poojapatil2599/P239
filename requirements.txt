@@ -1,3 +1,4 @@
 pandas
 sklearn
 streamlit 
+nltk
